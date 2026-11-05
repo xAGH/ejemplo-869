@@ -1,0 +1,7 @@
+# Ejemplo
+
+test/
+.env
+*.pdf
+src/config.local.js
+!requisitos.pdf
