@@ -1,3 +1,6 @@
 Hola Mundo
 Bienvenidos a mi sitio web de ADSO, modificado desde GitHub
 Mofificado desde windows 2
+
+Estos son los datos de contacto de mi app:
+Correo: algiraldoh@sena.edu.co
